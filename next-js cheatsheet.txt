@@ -1,0 +1,6 @@
+1.Create the next js project
+    -> npx create-next-app@latest
+2.Run the project
+    -> npm run dev
+3.To deploy the application in vercel
+    -> npx vercel
